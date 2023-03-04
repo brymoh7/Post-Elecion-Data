@@ -33,4 +33,4 @@ VITE v4.1.4
 
 Author
 Tolu B 
-C 2023
+© 2023

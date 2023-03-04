@@ -32,4 +32,5 @@ React - JavaScript library for building user interfaces
 VITE v4.1.4
 
 Author
-Oreoluwa Aremu
+Tolu B 
+C 2023
